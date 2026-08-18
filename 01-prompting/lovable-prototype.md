@@ -10,12 +10,12 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Use of AI to vibe code basic UI.
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Team used both Lovable and Claude.  Lovable was quicker.
+- **What broke / felt like a toy:** Button position was annoying.  Test User Transcript DID NOT work
+- **What I'd change next pass:** Fix to update column output based on changing input (user transcripts) Fix button
